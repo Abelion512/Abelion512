@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -36,12 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abelion512/Abelion512/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/abelion">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=abelion&count=5&unique=false" alt="Spotify recently played"  />
@@ -50,14 +44,9 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Abelion512/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Abelion512/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Abelion512/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Abelion512/1" alt="Medium post 2"  />
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Abelion512/Abelion512/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -66,9 +55,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abelion512/Abelion512/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abelion512/Abelion512/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Abelion512/Abelion512/output/snake.svg" alt="Snake animation" />
 
 ###
