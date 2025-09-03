@@ -3,17 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abelion512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abelion512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -37,9 +26,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/abelion">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=abelion&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Abelion512&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=45&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -49,6 +36,8 @@
 <img src="https://raw.githubusercontent.com/Abelion512/Abelion512/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abelion512/Abelion512/output/pacman-contribution-graph-dark.svg">
