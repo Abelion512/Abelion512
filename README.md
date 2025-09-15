@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abelion and I'm a human, from this world.</h2>
+<h2 align="left">Hi 👋! My name is Abelion and I'm a Web developer.</h2>
 
 ###
 
