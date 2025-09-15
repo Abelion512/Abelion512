@@ -1,30 +1,60 @@
-# .github/workflows/pacman.yml
 name: Generate Pacman
 
 on:
   schedule:
-    - cron: "30 1 * * *"   # 1x sehari
+    - cron: "0 */6 * * *"   # JALAN TIAP 6 JAM
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Biar job lama dibatalkan kalau ada job baru (hindari konflik commit)
+concurrency:
+  group: pacman
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # GANTI STEP INI sesuai generator pacman yang kamu pakai
+      # Opsional: kalau generator-mu Node.js, aktifkan ini
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Prepare dirs
+        run: |
+          mkdir -p dist output
+          chmod +x scripts/generate-pacman.sh 2>/dev/null || true
+
+      # =============================== 
+      # GANTI BAGIAN INI DENGAN GENERATORMU
+      # Harus menghasilkan:
+      #   dist/pacman-contribution-graph.svg
+      #   dist/pacman-contribution-graph-dark.svg
+      # ===============================
       - name: Run pacman generator
         run: |
-          ./scripts/generate-pacman.sh  # atau node scripts/generate-pacman.mjs
-          # pastikan script menulis ke: output/pacman-contribution-graph.svg
-          # dan output/pacman-contribution-graph-dark.svg
+          set -euo pipefail
+          # Contoh placeholder. GANTI dengan perintah generator milikmu:
+          # npx your-pacman-cli --user Abelion512 --out dist
+          # atau: node scripts/generate-pacman.mjs
+          # atau: ./scripts/generate-pacman.sh
+          echo "<svg xmlns='http://www.w3.org/2000/svg'><text x='10' y='20'>replace with real pacman generator</text></svg>" > dist/pacman-contribution-graph.svg
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
 
-      - name: Commit updated SVG
+          # Validasi output biar kalau gagal, pipeline ikut gagal
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
+
+      - name: Publish to output/
         run: |
-          git config user.name "github-actions[bot]"
+          cp dist/pacman-contribution-graph*.svg output/
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/pacman-contribution-graph*.svg
           git commit -m "chore: update pacman graph" || echo "no changes"
