@@ -52,8 +52,7 @@ Currently learning **cybersecurity** and exploring **cloud**.
 ---
 
 ### 🎮 Fun
-<!-- Pilih SATU: pacman ATAU snake. Jangan dua-duanya. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abelion512/Abelion512/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Abelion512/Abelion512/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abelion512/Abelion512/main/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Abelion512/Abelion512/main/output/pacman-contribution-graph.svg">
 </picture>
