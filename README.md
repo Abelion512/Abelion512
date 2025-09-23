@@ -9,11 +9,11 @@ Currently learning **cybersecurity** and exploring **cloud**.
 
 ### 🚀 Featured Projects
 - **Abelion Finance** — Personal finance dashboard (React + Supabase).  
-  [Code](https://github.com/Abelion512/Abelion-Finance)
+  **[Abelion-Finance]**(https://abelion-finance.vercel.app/)
 - **FocusTimerin** — PWA productivity with offline support.  
-  [Code](https://github.com/Abelion512/FocusTimerin)
+  **[Focus Timerin]**(https://focustimerin.netlify.app/)
 - **Abelion AI** — Experimental AI assistant (Node/Express + RAG).  
-  [Code](https://github.com/Abelion512/Abelion-AI)
+  **[Abelion AI]**(https://abelionai.vercel.app/)
 
 ---
 
