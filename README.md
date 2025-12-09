@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Abelion and I'm a Web Developer</h2>
+<h2 align="left">Hi 👋! My name is Ihsanuddin Salav a.k.a Abelion Lavv</h2>
 
 ### 👨‍💻 About Me
-I’m a student and aspiring **full-stack web developer**.  
-Passionate about **AI, fintech, and productivity tools**, focused on building modern, interactive apps.  
-Currently learning **cybersecurity** and exploring **cloud**.
+I’m a student and aspiring **AI and AUTOMATION**.  
+Passionate about **AI, fintech, and productivity tools**, focused on Agentic AI and Aautomation.  
+Currently learning **Machine Learning** and exploring **Agentic Artificial Intelligence**.
 
 ---
 
@@ -38,7 +38,7 @@ Currently learning **cybersecurity** and exploring **cloud**.
   <a href="https://instagram.com/ihsanovid" target="_blank" rel="noreferrer">Instagram</a> ·
   <a href="https://discordapp.com/users/abelion._" target="_blank" rel="noreferrer">Discord</a> ·
   <a href="mailto:agen.salva@gmail.com" target="_blank" rel="noreferrer">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-link" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ihsanuddin-salav/" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 ---
