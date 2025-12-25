@@ -24,7 +24,7 @@
   ### 👨‍💻 Tech Stack & Tools
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,react,nodejs,express,supabase,firebase,git,github,vscode&perline=7" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,instagram,discord,mysql,supabase,github,vscode,notion,figma,vercel&perline=7" />
     </a>
   </p>
 
@@ -35,8 +35,9 @@
   | **Project** | **Description** | **Tech Stack** |
   |:---|:---|:---|
   | 💰 **[Abelion Finance](https://abelion-finance.vercel.app/)** | Personal finance dashboard with real-time tracking. | `React` `Supabase` `Tailwind` |
-  | ⏱️ **[Focus Timerin](https://focustimerin.netlify.app/)** | Productivity PWA with offline capabilities. | `Javascript` `PWA` `HTML/CSS` |
-  | 🤖 **[Abelion AI](https://abelionai.vercel.app/)** | Experimental AI Assistant using RAG Architecture. | `Node.js` `OpenAI API` `Vector DB` |
+  | 📖 **[Abelion Notes](https://notes-abelion.vercel.app/)** | Productivity PWA with offline capabilities. | `HTML` `CSS` `JS` |
+  | ⏱️ **[Learnink AI](https://learnink.vercel.app/)** | Productivity PWA with offline capabilities. | `React` `Supabase` `Tailwind` |
+ 
 
   ---
 
