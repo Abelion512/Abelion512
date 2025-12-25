@@ -35,8 +35,7 @@
   | **Project** | **Description** | **Tech Stack** |
   |:---|:---|:---|
   | 💰 **[Abelion Finance](https://abelion-finance.vercel.app/)** | Personal finance dashboard with real-time tracking. | `React` `Supabase` `Tailwind` |
-  | 📖 **[Abelion Notes](https://notes-abelion.vercel.app/)** | Productivity PWA with offline capabilities. | `HTML` `CSS` `JS` |
-  | ⏱️ **[Learnink AI](https://learnink.vercel.app/)** | Productivity PWA with offline capabilities. | `React` `Supabase` `Tailwind` |
+  | ⏱️ **[Learnink AI](https://learnink.vercel.app/)** | Learning about AI and Automation free. | `React` `Supabase` `Tailwind` |
  
 
   ---
