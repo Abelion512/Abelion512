@@ -32,15 +32,14 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,supabase,github,vscode,notion,figma,vercel&perline=12" />
-    </a>
+    </a> 
     <br/>
-    <br/>
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-    <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-    <img src="https://img.shields.io/badge/Make-611295?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google-gravity&logoColor=white" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/Lovable-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="Lovable" />
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" style="margin: 4px;" />
+    <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="40" alt="Zapier" style="margin: 4px;" />
+    <img src="https://cdn.simpleicons.org/make/611295" height="40" alt="Make" style="margin: 4px;" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" alt="WhatsApp" style="margin: 4px;" />
+    <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lovable.dev&size=128" height="40" alt="Lovable" style="margin: 4px; border-radius: 5px;" />
+    <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://antigravity.so&size=128" height="40" alt="Antigravity" style="margin: 4px; border-radius: 5px;" />
   </p>
 
   ---
