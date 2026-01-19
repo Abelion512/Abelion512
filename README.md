@@ -28,6 +28,21 @@
     </a>
   </p>
 
+  ### 👨‍💻 Tech Stack & Tools
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,supabase,github,vscode,notion,figma,vercel&perline=12" />
+    </a>
+    <br/>
+    <br/>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+    <img src="https://img.shields.io/badge/Make-611295?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google-gravity&logoColor=white" alt="Antigravity" />
+    <img src="https://img.shields.io/badge/Lovable-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="Lovable" />
+  </p>
+
   ---
 
   ### 🔭 Featured Projects
