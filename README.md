@@ -104,20 +104,20 @@ I have a deep interest in exploring future technologies that drive productivity:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abelion512&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="Abelion512's Trophies" />
+[![Abelion512's Trophies](https://github-profile-trophy.vercel.app/?username=Abelion512&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abelion512&show_icons=true&hide_rank=false&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" height="170" alt="Abelion512's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelion512&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="170" alt="Abelion512's Top Languages" />
+![Abelion512's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abelion512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Abelion512's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelion512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abelion512&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000" width="100%" alt="Abelion512's Activity Graph" />
+![Abelion512's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abelion512&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Abelion512&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" alt="Abelion512's GitHub Streak" />
+![Abelion512's GitHub Streak](https://streak-stats.demolab.com?user=Abelion512&theme=tokyonight&hide_border=true&background=00000000)
 
 </div>
 
