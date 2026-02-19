@@ -18,7 +18,7 @@
 
 I'm a developer and AI enthusiast focused on building **agentic systems** and **automation workflows**. As a **Vibe Coder**, I love exploring cutting-edge AI platforms to build efficient, innovative, and impactful solutions.
 
-- 🔭 **Currently Building:** **[Abelion Finance](https://abelion-finance.vercel.app/)** & **[Learnink AI](https://learnink.vercel.app/)**
+- 🔭 **Primary Focus:** **[Learnink AI](https://learnink.vercel.app/)** & **[Lembaran](https://github.com/Abelion512/lembaran)**
 - 🌱 **Learning Focus:** Cyber Security, AI & Automation, Web Development, Fintech, and Productivity.
 - ⚡ **Identity:** Vibe Coding Enthusiast & AI Experimentalist.
 - 🌐 **Portfolio:** [abelink-portofolio.vercel.app](https://abelink-portofolio.vercel.app/)
@@ -41,7 +41,19 @@ I have a deep interest in exploring future technologies that drive productivity:
 
 ### **Languages & Core**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,supabase&perline=8" alt="JS, TS, HTML, CSS, MySQL, Supabase" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,mysql,postgres,py,bash&perline=8" alt="TS, JS, HTML, CSS, MySQL, Postgres, Python, Bash" />
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,bun,postman&perline=8" alt="React, Vite, Tailwind, Supabase, Bun, Postman" />
+  <br/>
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </p>
 
 ### **Vibe Coding & AI Platforms**
@@ -60,15 +72,15 @@ I have a deep interest in exploring future technologies that drive productivity:
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Make-611295?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </p>
 
 ### **Workspace & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion&perline=8" alt="VSCode, Git, GitHub, Figma, Vercel, Notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion,docker&perline=8" alt="VSCode, Git, GitHub, Figma, Vercel, Notion, Docker" />
   <a href="https://trae.ai"><img src="https://img.shields.io/badge/Trae.ai-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="Trae" /></a>
-  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude.ai-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /></a>
   <a href="https://opencode.com"><img src="https://img.shields.io/badge/Opencode-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Opencode" /></a>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 ---
@@ -77,10 +89,10 @@ I have a deep interest in exploring future technologies that drive productivity:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| 🎓 **[Learnink AI](https://learnink.vercel.app/)** | Free platform for learning AI and automation fundamentals. | `React` `Supabase` `Tailwind` `Pyodide` |
+| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Efficient document management tool with CLI support. | `TypeScript` `Bun` `Monorepo` |
 | 💰 **[Abelion Finance](https://abelion-finance.vercel.app/)** | Personal finance dashboard with real-time tracking and analytics. | `React` `Supabase` `Tailwind` |
-| 🎓 **[Learnink AI](https://learnink.vercel.app/)** | Free platform for learning AI and automation fundamentals. | `React` `Supabase` `Tailwind` |
 | 💳 **[Ab-Pay](https://github.com/Abelion512/ab-pay)** | Optimized real-time payment flow rendering. | `TypeScript` `React` |
-| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Efficient document management tool. | `TypeScript` |
 
 ---
 
