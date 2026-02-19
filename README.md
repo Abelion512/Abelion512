@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BD18C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abelion+Lavv+%F0%9F%91%8B;AI+%26+Automation+Enthusiast;Building+Agentic+Systems;Vibe+Coding+%26+Experimental+Dev;Exploring+Fintech+%26+Productivity" alt="Typing animation: Hi, I'm Abelion Lavv — AI & Automation Enthusiast, Building Agentic Systems, Vibe Coding, Exploring Fintech & Productivity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BD18C&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Abelion+Lavv+%F0%9F%91%8B;Antusias+AI+%26+Otomasi;Membangun+Sistem+Agentic;Vibe+Coding+%26+Eksperimen+Dev;Eksplorasi+Fintech+%26+Produktivitas" alt="Typing animation: Halo, Saya Abelion Lavv" />
 
 <br/>
 
@@ -14,80 +14,81 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Tentang Saya
 
-Saya adalah seorang developer dan AI enthusiast yang berfokus pada pembangunan **agentic systems** dan **automation workflows**. Saya juga seorang **Vibe Coder** yang suka bereksplorasi dengan berbagai platform AI terkini (lovable, v0, bolt.new, dsb) untuk menciptakan solusi yang efisien dan inovatif.
+Saya adalah seorang pengembang dan antusias AI yang berfokus pada pembangunan **sistem agentic** dan **alur kerja otomasi**. Sebagai seorang **Vibe Coder**, saya gemar mengeksplorasi berbagai platform AI mutakhir untuk menciptakan solusi yang efisien, inovatif, dan berdampak.
 
-- 🔭 Sedang membangun: **[Abelion Finance](https://abelion-finance.vercel.app/)** & **[Learnink AI](https://learnink.vercel.app/)**
-- 🌱 Fokus Belajar: Security, AI & Automation, Web Development, Fintech, dan Productivity
-- ⚡ Identitas: Vibe Coding enthusiast (Experimental Dev)
-- 🌐 Portfolio: [abelink-portofolio.vercel.app](https://abelink-portofolio.vercel.app/)
-- 📬 Kontak: [agen.salva@gmail.com](mailto:agen.salva@gmail.com)
+- 🔭 **Sedang Membangun:** **[Abelion Finance](https://abelion-finance.vercel.app/)** & **[Learnink AI](https://learnink.vercel.app/)**
+- 🌱 **Fokus Belajar:** Keamanan Siber, AI & Otomasi, Pengembangan Web, Fintech, dan Produktivitas.
+- ⚡ **Identitas:** Penggemar Vibe Coding & Eksperimen AI.
+- 🌐 **Portfolio:** [abelink-portofolio.vercel.app](https://abelink-portofolio.vercel.app/)
+- 📬 **Kontak:** [agen.salva@gmail.com](mailto:agen.salva@gmail.com)
 
 ---
 
 ## 🎯 Minat & Fokus
 
-Saya memiliki ketertarikan mendalam dalam mengeksplorasi teknologi masa depan, khususnya:
+Saya memiliki ketertarikan mendalam pada teknologi masa depan yang mendorong produktivitas:
 
-- 🛡️ **Cyber Security:** Mempelajari keamanan sistem dan perlindungan data.
-- 🤖 **AI & Automation:** Membangun agen cerdas dan alur kerja otomatis.
-- 💳 **Fintech:** Berinovasi dalam sistem pembayaran dan pengelolaan keuangan.
-- 📈 **Productivity:** Menciptakan alat yang meningkatkan efisiensi kerja.
+- 🛡️ **Keamanan Siber:** Mempelajari pengamanan sistem dan integritas data.
+- 🤖 **AI & Otomasi:** Menciptakan agen cerdas dan workflow otomatis (n8n, Make, Zapier).
+- 💳 **Fintech:** Berinovasi dalam alur pembayaran dan teknologi finansial.
+- 📈 **Produktivitas:** Membangun alat yang memudahkan pekerjaan manusia.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Teknologi & Ekosistem
 
-### **Languages & Core**
+### **Bahasa & Inti**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,supabase&perline=8" alt="JS, TS, HTML, CSS, MySQL, Supabase" />
 </p>
 
-### **Vibe Coding & AI Platforms**
+### **Platform Vibe Coding & AI**
 <p>
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lovable.dev&size=128" height="38" alt="Lovable" title="Lovable" style="margin:4px;border-radius:5px" />
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v0.dev&size=128" height="38" alt="v0" title="v0" style="margin:4px;border-radius:5px" />
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bolt.new&size=128" height="38" alt="Bolt.new" title="Bolt.new" style="margin:4px;border-radius:5px" />
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://emergent.sh&size=128" height="38" alt="Emergent" title="Emergent" style="margin:4px;border-radius:5px" />
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://antigravity.so&size=128" height="38" alt="Antigravity" title="Antigravity" style="margin:4px;border-radius:5px" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="38" alt="Codex" title="Codex" style="margin:4px" />
+  <a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Lovable" /></a>
+  <a href="https://v0.dev"><img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" /></a>
+  <a href="https://bolt.new"><img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt" /></a>
+  <a href="https://emergent.sh"><img src="https://img.shields.io/badge/Emergent.sh-000000?style=for-the-badge&logo=probot&logoColor=white" alt="Emergent" /></a>
+  <a href="https://antigravity.so"><img src="https://img.shields.io/badge/Google_Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Google_Antigravity" /></a>
+  <a href="https://google.com"><img src="https://img.shields.io/badge/Jules-000000?style=for-the-badge&logo=google&logoColor=white" alt="Jules" /></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /></a>
 </p>
 
-### **Automation & No-Code**
+### **Otomasi & Tanpa-Kode**
 <p>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="38" alt="n8n" title="n8n" style="margin:4px" />
-  <img src="https://cdn.simpleicons.org/make/611295" height="38" alt="Make" title="Make" style="margin:4px" />
-  <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="38" alt="Zapier" title="Zapier" style="margin:4px" />
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="38" alt="WhatsApp" title="WhatsApp" style="margin:4px" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-611295?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </p>
 
-### **Workspace & Tools**
+### **Ruang Kerja & Alat**
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion&perline=8" alt="VSCode, Git, GitHub, Figma, Vercel, Notion" />
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://trae.ai&size=128" height="38" alt="Trae" title="Trae" style="margin:4px;border-radius:5px" />
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://antigravity.so&size=128" height="38" alt="Google Antigravity" title="Google Antigravity" style="margin:4px;border-radius:5px" />
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="38" alt="Claude" title="Claude" style="margin:4px" />
+  <a href="https://trae.ai"><img src="https://img.shields.io/badge/Trae.ai-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="Trae" /></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude.ai-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+  <a href="https://opencode.com"><img src="https://img.shields.io/badge/Opencode-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Opencode" /></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyek Unggulan
 
-| Project | Description | Stack |
+| Proyek | Deskripsi | Teknologi |
 |:--------|:------------|:------|
 | 💰 **[Abelion Finance](https://abelion-finance.vercel.app/)** | Dashboard keuangan pribadi dengan pelacakan real-time. | `React` `Supabase` `Tailwind` |
-| 🎓 **[Learnink AI](https://learnink.vercel.app/)** | Platform gratis belajar AI dan otomasi. | `React` `Supabase` `Tailwind` |
+| 🎓 **[Learnink AI](https://learnink.vercel.app/)** | Platform gratis untuk mempelajari dasar-dasar AI dan otomasi. | `React` `Supabase` `Tailwind` |
 | 💳 **[Ab-Pay](https://github.com/Abelion512/ab-pay)** | Alur pembayaran dengan optimasi rendering real-time. | `TypeScript` `React` |
-| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Alat manajemen dokumen. | `TypeScript` |
+| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Alat manajemen dokumen yang efisien. | `TypeScript` |
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Statistik & Aktivitas GitHub
 
 > [!TIP]
-> Lihat semua repositori saya di [sini](https://github.com/Abelion512?tab=repositories)
-
+> **Real-time:** Statistik di bawah diperbarui secara otomatis berdasarkan aktivitas saya.
+> Lihat daftar lengkap repositori saya di [sini](https://github.com/Abelion512?tab=repositories).
 
 <div align="center">
 
@@ -95,7 +96,7 @@ Saya memiliki ketertarikan mendalam dalam mengeksplorasi teknologi masa depan, k
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abelion512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" height="170" alt="Abelion512's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abelion512&show_icons=true&hide_rank=false&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" height="170" alt="Abelion512's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelion512&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="170" alt="Abelion512's Top Languages" />
 
 <br/>
@@ -110,7 +111,7 @@ Saya memiliki ketertarikan mendalam dalam mengeksplorasi teknologi masa depan, k
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Aktivitas Kontribusi
 
 <div align="center">
   <picture>
