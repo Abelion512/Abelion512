@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BD18C&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Abelion+Lavv+%F0%9F%91%8B;Antusias+AI+%26+Otomasi;Membangun+Sistem+Agentic;Vibe+Coding+%26+Eksperimen+Dev;Eksplorasi+Fintech+%26+Produktivitas" alt="Typing animation: Halo, Saya Abelion Lavv" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BD18C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abelion+Lavv+%F0%9F%91%8B;AI+%26+Automation+Enthusiast;Building+Agentic+Systems;Vibe+Coding+%26+Experimental+Dev;Exploring+Fintech+%26+Productivity" alt="Typing animation: Hi, I'm Abelion Lavv" />
 
 <br/>
 
@@ -14,48 +14,48 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-Saya adalah seorang pengembang dan antusias AI yang berfokus pada pembangunan **sistem agentic** dan **alur kerja otomasi**. Sebagai seorang **Vibe Coder**, saya gemar mengeksplorasi berbagai platform AI mutakhir untuk menciptakan solusi yang efisien, inovatif, dan berdampak.
+I'm a developer and AI enthusiast focused on building **agentic systems** and **automation workflows**. As a **Vibe Coder**, I love exploring cutting-edge AI platforms to build efficient, innovative, and impactful solutions.
 
-- 🔭 **Sedang Membangun:** **[Abelion Finance](https://abelion-finance.vercel.app/)** & **[Learnink AI](https://learnink.vercel.app/)**
-- 🌱 **Fokus Belajar:** Keamanan Siber, AI & Otomasi, Pengembangan Web, Fintech, dan Produktivitas.
-- ⚡ **Identitas:** Penggemar Vibe Coding & Eksperimen AI.
+- 🔭 **Currently Building:** **[Abelion Finance](https://abelion-finance.vercel.app/)** & **[Learnink AI](https://learnink.vercel.app/)**
+- 🌱 **Learning Focus:** Cyber Security, AI & Automation, Web Development, Fintech, and Productivity.
+- ⚡ **Identity:** Vibe Coding Enthusiast & AI Experimentalist.
 - 🌐 **Portfolio:** [abelink-portofolio.vercel.app](https://abelink-portofolio.vercel.app/)
-- 📬 **Kontak:** [agen.salva@gmail.com](mailto:agen.salva@gmail.com)
+- 📬 **Reach Me:** [agen.salva@gmail.com](mailto:agen.salva@gmail.com)
 
 ---
 
-## 🎯 Minat & Fokus
+## 🎯 Interests & Focus
 
-Saya memiliki ketertarikan mendalam pada teknologi masa depan yang mendorong produktivitas:
+I have a deep interest in exploring future technologies that drive productivity:
 
-- 🛡️ **Keamanan Siber:** Mempelajari pengamanan sistem dan integritas data.
-- 🤖 **AI & Otomasi:** Menciptakan agen cerdas dan workflow otomatis (n8n, Make, Zapier).
-- 💳 **Fintech:** Berinovasi dalam alur pembayaran dan teknologi finansial.
-- 📈 **Produktivitas:** Membangun alat yang memudahkan pekerjaan manusia.
+- 🛡️ **Cyber Security:** Exploring system hardening and data integrity.
+- 🤖 **AI & Automation:** Creating intelligent agents and automated workflows (n8n, Make, Zapier).
+- 💳 **Fintech:** Innovating in payment flows and financial technology.
+- 📈 **Productivity:** Building tools that simplify human work.
 
 ---
 
-## 🛠️ Teknologi & Ekosistem
+## 🛠️ Tech Stack & Ecosystem
 
-### **Bahasa & Inti**
+### **Languages & Core**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,supabase&perline=8" alt="JS, TS, HTML, CSS, MySQL, Supabase" />
 </p>
 
-### **Platform Vibe Coding & AI**
+### **Vibe Coding & AI Platforms**
 <p>
   <a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Lovable" /></a>
   <a href="https://v0.dev"><img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" /></a>
   <a href="https://bolt.new"><img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt" /></a>
   <a href="https://emergent.sh"><img src="https://img.shields.io/badge/Emergent.sh-000000?style=for-the-badge&logo=probot&logoColor=white" alt="Emergent" /></a>
-  <a href="https://antigravity.so"><img src="https://img.shields.io/badge/Google_Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Google_Antigravity" /></a>
+  <a href="https://antigravity.so"><img src="https://img.shields.io/badge/Google_Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Google Antigravity" /></a>
   <a href="https://google.com"><img src="https://img.shields.io/badge/Jules-000000?style=for-the-badge&logo=google&logoColor=white" alt="Jules" /></a>
   <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /></a>
 </p>
 
-### **Otomasi & Tanpa-Kode**
+### **Automation & No-Code**
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Make-611295?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
@@ -63,7 +63,7 @@ Saya memiliki ketertarikan mendalam pada teknologi masa depan yang mendorong pro
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </p>
 
-### **Ruang Kerja & Alat**
+### **Workspace & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,notion&perline=8" alt="VSCode, Git, GitHub, Figma, Vercel, Notion" />
   <a href="https://trae.ai"><img src="https://img.shields.io/badge/Trae.ai-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="Trae" /></a>
@@ -73,22 +73,22 @@ Saya memiliki ketertarikan mendalam pada teknologi masa depan yang mendorong pro
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
-| Proyek | Deskripsi | Teknologi |
+| Project | Description | Stack |
 |:--------|:------------|:------|
-| 💰 **[Abelion Finance](https://abelion-finance.vercel.app/)** | Dashboard keuangan pribadi dengan pelacakan real-time. | `React` `Supabase` `Tailwind` |
-| 🎓 **[Learnink AI](https://learnink.vercel.app/)** | Platform gratis untuk mempelajari dasar-dasar AI dan otomasi. | `React` `Supabase` `Tailwind` |
-| 💳 **[Ab-Pay](https://github.com/Abelion512/ab-pay)** | Alur pembayaran dengan optimasi rendering real-time. | `TypeScript` `React` |
-| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Alat manajemen dokumen yang efisien. | `TypeScript` |
+| 💰 **[Abelion Finance](https://abelion-finance.vercel.app/)** | Personal finance dashboard with real-time tracking and analytics. | `React` `Supabase` `Tailwind` |
+| 🎓 **[Learnink AI](https://learnink.vercel.app/)** | Free platform for learning AI and automation fundamentals. | `React` `Supabase` `Tailwind` |
+| 💳 **[Ab-Pay](https://github.com/Abelion512/ab-pay)** | Optimized real-time payment flow rendering. | `TypeScript` `React` |
+| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Efficient document management tool. | `TypeScript` |
 
 ---
 
-## 📊 Statistik & Aktivitas GitHub
+## 📊 GitHub Analytics & Activity
 
 > [!TIP]
-> **Real-time:** Statistik di bawah diperbarui secara otomatis berdasarkan aktivitas saya.
-> Lihat daftar lengkap repositori saya di [sini](https://github.com/Abelion512?tab=repositories).
+> **Real-time Stats:** The data below is automatically updated based on my GitHub activity.
+> Check out my full repository list [here](https://github.com/Abelion512?tab=repositories).
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Saya memiliki ketertarikan mendalam pada teknologi masa depan yang mendorong pro
 
 ---
 
-## 🐍 Aktivitas Kontribusi
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
