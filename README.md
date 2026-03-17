@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BD18C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abelion+Lavv+%F0%9F%91%8B;AI+%26+Automation+Enthusiast;Building+Agentic+Systems;Vibe+Coding+%26+Experimental+Dev;Exploring+Fintech+%26+Productivity" alt="Typing animation: Hi, I'm Abelion Lavv" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BD18C&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Abelion+Lavv+%F0%9F%91%8B;AI+%26+Automation+Enthusiast;Building+Agentic+Systems;Vibe+Coding+%26+Experimental+Dev;Exploring+Fintech+%26+Productivity" alt="Typing animation: Hi, I'm Abelion Lavv" />
 
 <br/>
 
@@ -18,7 +18,8 @@
 
 I'm a developer and AI enthusiast focused on building **agentic systems** and **automation workflows**. As a **Vibe Coder**, I love exploring cutting-edge AI platforms to build efficient, innovative, and impactful solutions.
 
-- 🔭 **Primary Focus:** **[Learnink AI](https://learnink.vercel.app/)** & **[Lembaran](https://github.com/Abelion512/lembaran)**
+- 🔭 **Primary Focus:** **[Learnink AI](https://learnink.vercel.app/)** & **[Lembaran](https://github.com/Abelion512/notes-migrasi)**
+- 🚀 **Currently working on:** Enhancing **Learnink AI** with agentic workflows for personalized learning paths.
 - 🌱 **Learning Focus:** Cyber Security, AI & Automation, Web Development, Fintech, and Productivity.
 - ⚡ **Identity:** Vibe Coding Enthusiast & AI Experimentalist.
 - 🌐 **Portfolio:** [abelink-portofolio.vercel.app](https://abelink-portofolio.vercel.app/)
@@ -46,26 +47,41 @@ I have a deep interest in exploring future technologies that drive productivity:
 
 ### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,bun,postman&perline=5" alt="React, Vite, Tailwind, Supabase, Bun, Postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,supabase,bun,prisma,trpc,postman&perline=5" alt="React, Next.js, Vite, Tailwind, Supabase, Bun, Prisma, tRPC, Postman" />
 </p>
+
+### **AI & Automation Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-FF8000?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Chatgpt-412991?style=for-the-badge&logo=chatgpt&logoColor=white" alt="Chatgpt" />
+  <img src="https://img.shields.io/badge/n8n-F4003C?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+</p>
+
 
 ### **Workspace & Tools**
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=git,docker&perline=8" alt="Git, Docker" />
-</br>
-      <img src="https://skillicons.dev/icons?i=vscode,github,figma,vercel,notion,mint&perline=8" alt="VSCode, GitHub, Figma, Vercel, Notion, Mint" />
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,figma,notion,mint,vercel&perline=8" alt="Git, Docker, VSCode, GitHub, Figma, Notion, Mint, Vercel" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🎓 **[Learnink AI](https://learnink.vercel.app)** | Free platform for learning AI and automation fundamentals. | `React` `Supabase` `Tailwind` `Pyodide` |
-| 📄 **[Lembaran](https://github.com/Abelion512/lembaran)** | Efficient document management tool with CLI support. | `TypeScript` `Bun` `Monorepo` |
-| 💰 **[Bio-Lynk](https://bio-lynk.vercel.app)** | Link on Bio | `React` `Supabase` `Tailwind` |
-| 💳 **[Ab-Pay](https://github.com/Abelion512/ab-pay)** | Optimized real-time payment flow rendering. | `TypeScript` `React` |
+| Project | Description | Stack | Status |
+|:--------|:------------|:------|:-------|
+| 🎓 **[Learnink AI](https://learnink.vercel.app)** | Interactive AI Learning Platform. | `React` `Supabase` `Pyodide` | 🚀 Active |
+| 📄 **[Lembaran](https://github.com/Abelion512/notes-migrasi)** | Local-first Secure Digital Archive. | `TypeScript` `Bun` `AES-GCM` | 🛠️ In Dev |
+| 💰 **[Bio-Lynk](https://bio-lynk.vercel.app)** | Link on Bio | `React` `Supabase` `Tailwind` | ✅ Live |
+| 💳 **[Ab-Pay](https://github.com/Abelion512/ab-pay)** | Optimized real-time payment flow rendering. | `TypeScript` `React` | 🚧 Prototype |
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+- 💬 **Ask me about:** AI Automation, Vibe Coding, Agentic Systems, or why I love **Bun**!
+- 💡 **Open for collaboration on:** Agentic Systems, Fintech Innovations, and Open Source tools.
 
 ---
 
