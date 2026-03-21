@@ -93,12 +93,12 @@ I have a deep interest in exploring future technologies that drive productivity:
 
 <div align="center">
 
-[![Abelion512's Trophies](https://github-profile-trophy.vercel.app/?username=Abelion512&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Abelion512's Trophies](https://github-profile-trophy-abelion512.vercel.app/?username=Abelion512&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-![Abelion512's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abelion512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Abelion512's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelion512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Abelion512's GitHub Stats](https://github-readme-stats-abelion512.vercel.app/api?username=Abelion512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Abelion512's Top Languages](https://github-readme-stats-abelion512.vercel.app/api/top-langs/?username=Abelion512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <br/>
 
